@@ -6,6 +6,9 @@ https://github.com/CypherpunkArmory/UserLAnd/releases/download/v2.8.3/app-releas
 
 curl o -k https://raw.githubusercontent.com/TheRetroMike/VerusCliMining/main/install.sh | bash
 
+https://github.com/Oink70/Android-Mining/releases/download/v0.0.0-2/ccminer-v3.8.3-Pangz_ARM
+
+
 config.json
 {
         "pools":[
