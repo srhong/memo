@@ -15,7 +15,7 @@ config.json
                 "timeout": 150
         }
         ],
-        "user": "R9b5tbf1xYuYF28UTmp3oEVtDmrNGkmtmG.wireless",
+        "user": "R9b5tbf1xYuYF28UTmp3oEVtDmrNGkmtm.wireless",
         "pass": "x",
         "algo": "verus",
         "threads": 1,
